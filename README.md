@@ -1,14 +1,13 @@
-# 🌐 OrbitStack SaaS Website
+# OrbitStack Website 🌐
 
-A modern, responsive SaaS website built with clean UI components, gradient themes, and OrbitStack design principles.  
-This project includes a home page, pricing section, customer showcase, blog, and company profile.
+A modern SaaS website built for **OrbitStack** — a fictional cloud infrastructure management platform.  
+This project demonstrates a full **multi-page responsive site** with clean UI, consistent styling, and GitHub Pages deployment.
 
 ---
 
 ## 🚀 Live Demo
-🔗 [View on GitHub Pages](https://<YOUR_USERNAME>.github.io/<REPO_NAME>/)
+🔗 [View Website](https://joynankirk.github.io/Orbitstack-project/)  
 
 ---
 
 ## 📂 Project Structure
-

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Company - OrbitStack</title>
+  <meta name="description" content="Learn about OrbitStack's mission, team, and vision for the future of cloud infrastructure." />
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">
+        <a href="index.html">OrbitStack</a>
+      </div>
+      <ul class="menu">
+        <li><a href="index.html">Platform</a></li>
+        <li><a href="pricing.html">Pricing</a></li>
+        <li><a href="customers.html">Customers</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="company.html" class="active">Company</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>About OrbitStack</h1>
+      <p>Our mission is to simplify cloud infrastructure for businesses everywhere.</p>
+    </div>
+  </section>
+
+  <section class="features">
+    <h2>Our Values</h2>
+    <div class="grid">
+      <div class="card">🚀 Innovation</div>
+      <div class="card">🤝 Customer Success</div>
+      <div class="card">🌍 Global Impact</div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2025 OrbitStack. All Rights Reserved.</p>
+      <ul class="footer-links">
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="terms.html">Terms of Service</a></li>
+      </ul>
+    </div>
+  </footer>
+</body>
+</html>

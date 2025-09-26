@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog - OrbitStack</title>
+  <meta name="description" content="Stay updated with the latest cloud infrastructure insights and OrbitStack news." />
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">
+        <a href="index.html">OrbitStack</a>
+      </div>
+      <ul class="menu">
+        <li><a href="index.html">Platform</a></li>
+        <li><a href="pricing.html">Pricing</a></li>
+        <li><a href="customers.html">Customers</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="company.html">Company</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>OrbitStack Blog</h1>
+      <p>Insights, news, and best practices for cloud infrastructure.</p>
+    </div>
+  </section>
+
+  <section class="features">
+    <h2>Latest Articles</h2>
+    <div class="grid">
+      <div class="card">🌐 The Future of Multi-Cloud Management</div>
+      <div class="card">🔒 Top 5 Security Practices in 2025</div>
+      <div class="card">📊 How Real-Time Analytics Drives Growth</div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2025 OrbitStack. All Rights Reserved.</p>
+      <ul class="footer-links">
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="terms.html">Terms of Service</a></li>
+      </ul>
+    </div>
+  </footer>
+</body>
+</html>
